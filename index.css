@@ -97,7 +97,7 @@ span {
 }
 
 .result .copy-btn:hover {
-    background-color: #218838;
+    background-color: rgb(33, 136, 56);
 }
 
 .result .download-btn {
