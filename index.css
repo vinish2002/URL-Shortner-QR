@@ -145,6 +145,7 @@ span {
 }
 
 .popup p {
+    letter-spacing: 1px;
     line-height: 1.8;
 }
 
