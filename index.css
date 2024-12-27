@@ -72,7 +72,7 @@ span {
 .result a {
     display: block;
     margin-bottom: 10px;
-    color: #007bff;
+    color: rgb(0, 123, 255);
     text-decoration: none;
 }
 
