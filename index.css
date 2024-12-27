@@ -140,11 +140,12 @@ span {
 
 .popup-content h2 {
     margin-bottom: 15px;
-    font-size: 24px;
+    font-size: 26px;
     letter-spacing: 1px;
 }
 
 .popup p {
+    font-size: 20px;
     letter-spacing: 1px;
     line-height: 1.8;
 }
