@@ -135,7 +135,6 @@ span {
     color: #f4f6f6;
     background-color: rgb(0, 0, 0);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    font-family: 'Roboto', sans-serif;
     font-family: "Audiowide", sans-serif;
 }
 
@@ -143,6 +142,10 @@ span {
     margin-bottom: 15px;
     font-size: 24px;
     letter-spacing: 1px;
+}
+
+.popup p {
+    line-height: 1.8;
 }
 
 .close {
