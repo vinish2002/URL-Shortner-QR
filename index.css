@@ -41,7 +41,7 @@ body {
 .container button {
     width: 100%;
     padding: 10px;
-    background-color: #007bff;
+    background-color: rgb(0, 123, 255);
     color: rgb(255, 255, 255);
     border: none;
     border-radius: 4px;
