@@ -60,7 +60,7 @@ body {
     letter-spacing: 1.5px;
 }
 
-.container h6 span {
+span {
     margin: 0;
     color: rgb(255, 0, 0);
 }
