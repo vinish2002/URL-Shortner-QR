@@ -8,6 +8,14 @@ body {
     align-items: center;
     height: 100vh;
     /* background: conic-gradient(from 0deg at 50% 0%, #003f5b, #00e9ff, #003f5b); */
+    background-color: #00fbff;
+    background-image: radial-gradient(at 12% 26%, rgb(173, 216, 255) 0px, transparent 50%),
+        radial-gradient(at 48% 55%, hsla(202, 78%, 60%, 1) 0px, transparent 50%),
+        radial-gradient(at 28% 95%, hsla(273, 65%, 60%, 1) 0px, transparent 50%),
+        radial-gradient(at 42% 60%, hsla(180, 70%, 60%, 1) 0px, transparent 50%),
+        radial-gradient(at 62% 19%, hsla(289, 81%, 60%, 1) 0px, transparent 50%),
+        radial-gradient(at 79% 79%, hsla(233, 71%, 60%, 1) 0px, transparent 50%);
+
 }
 
 .container {
