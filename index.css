@@ -20,6 +20,10 @@ body {
 
 .container {
     /* background: #f4f6f6c6; */
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: inset 20px 20px 60px #bebebe,
+        inset -20px -20px 60px #ffffff;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
