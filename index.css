@@ -30,7 +30,6 @@ body {
     text-align: center;
     max-width: 300px;
     border: 0.5px solid rgba(172, 172, 172, 0.662);
-    /* filter: drop-shadow(0 0 10px rgba(76, 76, 76, 0.796)); */
     font-family: "Audiowide", sans-serif;
 }
 
