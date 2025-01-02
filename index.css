@@ -19,10 +19,6 @@ body {
 }
 
 .container {
-    border-radius: 50px;
-    background: #e0e0e0;
-    box-shadow: inset 20px 20px 60px #bebebe,
-        inset -20px -20px 60px #ffffff;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
