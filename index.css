@@ -19,15 +19,11 @@ body {
 }
 
 .container {
-    border-radius: 50px;
-    background: #e0e0e0;
-    box-shadow: 20px 20px 60px #bebebe,
-        -20px -20px 60px #ffffff;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
     max-width: 300px;
-    border: 0.5px solid rgba(172, 172, 172, 0.662);
+    /* border: 0.5px solid rgba(172, 172, 172, 0.662); */
     font-family: "Audiowide", sans-serif;
 }
 
