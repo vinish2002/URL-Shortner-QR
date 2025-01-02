@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: conic-gradient(from 0deg at 50% 0%, #003f5b, #00e9ff, #003f5b);
+    /* background: conic-gradient(from 0deg at 50% 0%, #003f5b, #00e9ff, #003f5b); */
 }
 
 .container {
