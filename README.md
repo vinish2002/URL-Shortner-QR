@@ -11,12 +11,12 @@ This app lets you **shorten long URLs** and generate **QR codes** from them! Bui
 
 
 ## How to Use 👩‍💻👨‍💻
-### Open the link,  which is provided below in your browser.
-### Paste a long URL into the input field.
-### Click Shorten URL to get a shortened version. ✂️
-### The QR code for the shortened URL will be displayed instantly! 🔍
-### Click Copy URL or Copy QR Code to copy them to your clipboard! 📲
-### Click Download QR to save the QR code as an image file! 📥
+- **Open the link,  which is provided below in your browser.**
+- **Paste a long URL into the input field.**
+- **Click Shorten URL to get a shortened version. ✂️**
+- **The QR code for the shortened URL will be displayed instantly! 🔍**
+- **Click Copy URL or Copy QR Code to copy them to your clipboard! 📲**
+- **Click Download QR to save the QR code as an image file! 📥**
 
 ## Technologies Used 🛠️
 - **HTML**: Structure the page 🏗️
