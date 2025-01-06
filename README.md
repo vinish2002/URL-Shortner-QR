@@ -1,12 +1,13 @@
 # URL Shortener & QR Code Maker 🌐🔗
-### Overview ✨
-### This app lets you shorten long URLs and generate QR codes from them! Built with HTML, CSS, and JavaScript, it’s simple to use and super handy. 😎
+
+## Overview ✨
+This app lets you **shorten long URLs** and generate **QR codes** from them! Built with **HTML**, **CSS**, and **JavaScript**, it’s simple to use and super handy. 😎
 
 ## Features 🚀
-### Shorten URLs: Paste a long URL and get a short version in seconds! 🔽
-### QR Code Generation: Instantly generate a QR code for the shortened URL. 📱
-### Copy Options: Copy both the shortened URL and the QR code with one click! 📋
-### Download QR Code: Download the generated QR code as an image for sharing! 🖼️
+- **Shorten URLs**: Paste a long URL and get a short version in seconds! 🔽
+- **QR Code Generation**: Instantly generate a QR code for the shortened URL. 📱
+- **Copy Options**: Copy both the shortened URL and the QR code with one click! 📋
+- **Download QR Code**: Download the generated QR code as an image! 🖼️
 
 
 ## How to Use 👩‍💻👨‍💻
