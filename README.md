@@ -19,9 +19,9 @@ This app lets you **shorten long URLs** and generate **QR codes** from them! Bui
 ### Click Download QR to save the QR code as an image file! 📥
 
 ## Technologies Used 🛠️
-### HTML: Structure the page 🏗️
-### CSS: Style everything to look neat ✨
-### JavaScript: Handle URL shortening, QR code generation, and interactivity ⚡
+- **HTML**: Structure the page 🏗️
+- **CSS**: Style everything to look neat ✨
+- **JavaScript**: Handle URL shortening, QR code generation, and interactivity ⚡
 
 
 ### Image Preview:
