@@ -10,7 +10,7 @@
 
 
 ## How to Use 👩‍💻👨‍💻
-### Open the index.html file in your browser.
+### Open the link,  which is provided below in your browser.
 ### Paste a long URL into the input field.
 ### Click Shorten URL to get a shortened version. ✂️
 ### The QR code for the shortened URL will be displayed instantly! 🔍
