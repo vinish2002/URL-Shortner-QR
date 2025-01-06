@@ -9,14 +9,15 @@
 ### Download QR Code: Download the generated QR code as an image for sharing! 🖼️
 
 
-### How to Use 👩‍💻👨‍💻
+## How to Use 👩‍💻👨‍💻
 ### Open the index.html file in your browser.
 ### Paste a long URL into the input field.
 ### Click Shorten URL to get a shortened version. ✂️
 ### The QR code for the shortened URL will be displayed instantly! 🔍
 ### Click Copy URL or Copy QR Code to copy them to your clipboard! 📲
 ### Click Download QR to save the QR code as an image file! 📥
-### Technologies Used 🛠️
+
+## Technologies Used 🛠️
 ### HTML: Structure the page 🏗️
 ### CSS: Style everything to look neat ✨
 ### JavaScript: Handle URL shortening, QR code generation, and interactivity ⚡
