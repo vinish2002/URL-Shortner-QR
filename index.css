@@ -59,7 +59,6 @@ body {
 
 .container button:hover {
     background-color: rgb(0, 86, 179);
-    /* filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.1)); */
 }
 
 .container .note {
