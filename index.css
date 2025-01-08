@@ -214,7 +214,7 @@ span {
     }
 }
 
-/* For mobile (max-width: 480px) */
+/******* For mobile (max-width: 480px) */
 @media screen and (max-width: 480px) {
     body {
         height: auto;
